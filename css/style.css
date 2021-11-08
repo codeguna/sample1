@@ -164,13 +164,14 @@ button:focus{
     right: 0;
     bottom: 0;
     left: 0;
-    background: #F8ECDC;
+    background: #6E6E6E;
     z-index: 11000;
     position: fixed;
     display: block;
 }
 
 .pulse {
+	color: #6E6E6E;
 	height: 150px;
 	width: 310px;
 	overflow: hidden;
